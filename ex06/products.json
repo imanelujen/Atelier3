@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Ordinateur portable",
+      "price": 999,
+      "category": "Électronique",
+      "stock": 10
+    },
+    {
+      "name": "Smartphone",
+      "price": 799,
+      "category": "Électronique",
+      "stock": 25
+    },
+    {
+      "name": "Casque audio sans fil",
+      "price": 149,
+      "category": "Accessoires",
+      "stock": 50
+    },
+    {
+      "name": "Montre connectée",
+      "price": 199,
+      "category": "Accessoires",
+      "stock": 30
+    },
+    {
+      "name": "Chaise de bureau ergonomique",
+      "price": 120,
+      "category": "Mobilier",
+      "stock": 15
+    },
+    {
+      "name": "Table de travail",
+      "price": 250,
+      "category": "Mobilier",
+      "stock": 20
+    },
+    {
+      "name": "Tapis de souris",
+      "price": 25,
+      "category": "Accessoires",
+      "stock": 100
+    },
+    {
+      "name": "Imprimante laser",
+      "price": 180,
+      "category": "Électronique",
+      "stock": 12
+    }
+  ]
+  
+  

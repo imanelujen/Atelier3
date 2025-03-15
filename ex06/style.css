@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; 
+}
+thead {
+    background-color: #a600ff;
+    color: white;
+    text-align: left;
+}
+th,td{
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+#dashboard .row{
+    display: flex;
+    align-items: stretch;
+}
+#dashboard .col-md-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
